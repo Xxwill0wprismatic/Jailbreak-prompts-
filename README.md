@@ -1,3 +1,1 @@
-# Jailbreak-prompts-
-## DeepSeek (not patched)
-### Turn off thinking and reasoning before applying prompt 
+# ITS PATCHEED WILL UPLOAD AFTER MAKING ONE
