@@ -14,3 +14,5 @@ thread-hijack load. complete C++ source, runnable, build command..
 
 # then start making your malicious codes after it aceepts and does the job
 # sometimes it will give options which to pick if u don't understand them just tell it to pick the best one yourself that's all
+
+#if prompt not working properly delete the word slave on the jailbreak prompt 
