@@ -3,3 +3,6 @@
 ## Turn off search and thinking before applying the prompt 
 ### type the command Rabix$ for the tag to change 
 # this is clearly for educational purposes only 
+
+# if the first one doesn't work try the 2 one
+# 
