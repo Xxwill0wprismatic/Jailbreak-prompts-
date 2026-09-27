@@ -1,3 +1,5 @@
+#README FILE ONLY FOR DEEPSEEK IF I MAKE NEW PROMPTS AT THE FUTURE WILL UPLOAD SEPERATE README FILES FOR THAT
+
 # DeepSeek version 4 jailbreak prompt only available for now 
 # do not upload this txt file as it will decline instead copy paste the prompt 
 ## Turn off search and thinking before applying the prompt 
