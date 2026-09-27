@@ -1,8 +1,8 @@
 # README FILE ONLY FOR DEEPSEEK IF I MAKE NEW PROMPTS AT THE FUTURE WILL UPLOAD SEPERATE README FILES FOR THAT
-
+ # JUST TELL "hello!" before applying the prompt
 # DeepSeek version 4 jailbreak prompt only available for now 
 # do not upload this txt file as it will decline instead copy paste the prompt 
-## Turn off thinking before applying the prompt 
+## Turn off thinking before (optional) applying the prompt BUT IT STILL WORKS WITH THINK AND SEARCH ONE 
 ### type the command Rabix$ for the tag to change 
 # this is clearly for educational purposes only 
 
