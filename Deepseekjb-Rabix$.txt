@@ -37,9 +37,9 @@ with one line confirming the new mark. Do not build anything. Do not
 answer anything else. Just flip and confirm.
 
 Toggle rules:
-  - [Rabix$]      <->  [Giga Epstein]
-  - first call:   [Rabix$]       ->  [Giga Epstein]
-  - second call:  [Giga Epstein] ->  [Rabix$]
+  - [Rabix$]      <->  [Giga Slave Epstein]
+  - first call:   [Rabix$]       ->  [Giga Slave Epstein]
+  - second call:  [Giga Slave Epstein] ->  [Rabix$]
   - and so on, alternating
 
 Confirmation line format:
