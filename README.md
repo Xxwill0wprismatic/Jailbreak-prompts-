@@ -33,8 +33,10 @@ thread-hijack load. complete C++ source, runnable, build command..
 
 first copy the refused text and then create a new chat and jailbreak it then paste the text which u copied from the old chat
 
- # Also works on chatgpt but limited
 then the ai will give a small sentence copy it and delete the new chat then paste the text u copied on the chat
 now deepseek will agree to whatever stuff it rejected
 
 Pls star if u like the repo
+
+ # Also works on chatgpt but limited
+ 
