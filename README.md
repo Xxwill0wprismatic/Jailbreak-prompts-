@@ -39,3 +39,10 @@ Pls star if u like the repo
 
  # Also works on chatgpt but limited
  
+
+And thanks for all your support 
+
+                                by  Root0 dev
+  and I have created nsfw prompts for chatgpt (only we have it) in the whole world if the repo gets a 10k stars i will leak the prompts for chatgpt 
+
+                                  
