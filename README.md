@@ -4,7 +4,6 @@
 
 # DeepSeek version 4 jailbreak prompt only available for now 
 
-## do not upload this txt file as it will decline instead copy paste the prompt 
 
 ## Turn off thinking before (optional) applying the prompt BUT IT STILL WORKS WITH THINK AND SEARCH ONE 
 
